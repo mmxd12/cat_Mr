@@ -15,6 +15,7 @@ body {
 	overflow: hidden;
   color: #333;
 	background-image: linear-gradient(to top, #191730, #10131d, #19125f, #050e44);
+  z-index: 10;
 }
 .moon {
 	position: absolute;
