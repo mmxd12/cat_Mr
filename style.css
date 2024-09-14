@@ -23,7 +23,7 @@ body {
 	width: 6rem;
 	height: 6rem;
 	border-radius: 50%;
-	background-image: linear-gradient(to left top, #b1b1c5, #928fa3, #746f82, #575162, #3c3444);
+	background-image: linear-gradient(to left top， #D1D34B, #D0D26B, #B4B623, #606108, #3E3F04);
 
 }
 .moon:hover {
